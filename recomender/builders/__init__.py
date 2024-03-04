@@ -1,1 +1,2 @@
 from .DistanceBasedRewardBuilder import DistanceBasedRewardBuilder
+from .SklearnNNModelBuilder import SklearnNNModelBuilder
